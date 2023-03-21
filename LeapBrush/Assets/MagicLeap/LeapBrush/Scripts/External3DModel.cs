@@ -30,6 +30,22 @@ namespace MagicLeap
 
         public event Action<External3DModel> OnTransformChanged;
 
+        /// <summary>
+        /// Event fired when the shape changer data has been updated. The second argument is
+        /// true if the change was made by the current user. Otherwise it was a change from
+        /// a remote user or a scene restore.
+        /// </summary>
+        public event Action<External3DModel, bool> OnShapeChangerDataChanged;
+        public ShapeChangerProto ShapeChangerData => _shapeChangerData;
+        private ShapeChangerProto _shapeChangerData;
+
+        public void SetShapeChangerData(ShapeChangerProto shapeChangerProto,
+            bool changedByCurrentUser)
+        {
+            _shapeChangerData = shapeChangerProto;
+            OnShapeChangerDataChanged?.Invoke(this, changedByCurrentUser);
+        }
+
         public string FileName => _fileName;
 
         public TransformProto TransformProto => _transformProto;

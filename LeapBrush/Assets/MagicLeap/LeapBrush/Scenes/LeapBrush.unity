@@ -2805,6 +2805,7 @@ MonoBehaviour:
   - {fileID: 3445542050043496534, guid: 8253013dd39e145a485bffae826bd7d6, type: 3}
   - {fileID: 3445542050043496534, guid: 39435bea647d7472eb225354ebac9130, type: 3}
   - {fileID: 3445542050043496534, guid: 0922f68e2283d46178a1695d08fd0987, type: 3}
+  - {fileID: 6814310425638160417, guid: c203749376e1d42e7bcdddbe232d4c38, type: 3}
 --- !u!114 &2018120105
 MonoBehaviour:
   m_ObjectHideFlags: 0

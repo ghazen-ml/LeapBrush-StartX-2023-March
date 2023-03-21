@@ -151,6 +151,19 @@ message BrushStrokeProto {
   uint32 fill_dimmer_a = 9;
 }
 
+// ShapeChangerProto represents a special type of 3D model that is a shape changing prefab
+message ShapeChangerProto {
+  enum Shape {
+    CUBE = 0;
+    SPHERE = 1;
+    CAPSULE = 2;
+  }
+
+  Shape shape = 1;
+
+  // TODO: Add more fields to represent custom data and state for this object.
+}
+
 // ExternalModelProto represents a new or updated 3D model
 message ExternalModelProto {
   // The identifier of this 3D model instance.
@@ -163,6 +176,10 @@ message ExternalModelProto {
   TransformProto transform = 6;
   // The last user identifier to modify this 3D model.
   string modified_by_user_name = 5;
+
+  // If this message is present, this 3D model is a shape changer prefab instance.
+  optional ShapeChangerProto shape_changer = 7;
+
 }
 
 // RegisterDeviceRequest contains the initialization data for a device registering for updates with the server

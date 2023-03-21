@@ -63,55 +63,59 @@ namespace MagicLeap.LeapBrush {
             "KAoKYnJ1c2hfcG9zZRgEIAMoCzIULmxlYXBicnVzaC5Qb3NlUHJvdG8SEwoL",
             "c3RhcnRfaW5kZXgYBSABKAUSGAoQc3Ryb2tlX2NvbG9yX3JnYhgGIAEoDRIX",
             "Cg9maWxsX2NvbG9yX3JnYmEYCCABKA0SFQoNZmlsbF9kaW1tZXJfYRgJIAEo",
-            "DSIjCglCcnVzaFR5cGUSDAoIU0NSSUJCTEUQABIICgRQT0xZEAEikwEKEkV4",
-            "dGVybmFsTW9kZWxQcm90bxIKCgJpZBgBIAEoCRIRCglmaWxlX25hbWUYAiAB",
-            "KAkSEQoJYW5jaG9yX2lkGAMgASgJEiwKCXRyYW5zZm9ybRgGIAEoCzIZLmxl",
-            "YXBicnVzaC5UcmFuc2Zvcm1Qcm90bxIdChVtb2RpZmllZF9ieV91c2VyX25h",
-            "bWUYBSABKAkiPwoVUmVnaXN0ZXJEZXZpY2VSZXF1ZXN0EhEKCXVzZXJfbmFt",
-            "ZRgBIAEoCRITCgthcHBfdmVyc2lvbhgCIAEoCSJKChVCcnVzaFN0cm9rZUFk",
-            "ZFJlcXVlc3QSMQoMYnJ1c2hfc3Ryb2tlGAEgASgLMhsubGVhcGJydXNoLkJy",
-            "dXNoU3Ryb2tlUHJvdG8iOQoYQnJ1c2hTdHJva2VSZW1vdmVSZXF1ZXN0EgoK",
-            "AmlkGAEgASgJEhEKCWFuY2hvcl9pZBgCIAEoCSJHChdFeHRlcm5hbE1vZGVs",
-            "QWRkUmVxdWVzdBIsCgVtb2RlbBgBIAEoCzIdLmxlYXBicnVzaC5FeHRlcm5h",
-            "bE1vZGVsUHJvdG8iOwoaRXh0ZXJuYWxNb2RlbFJlbW92ZVJlcXVlc3QSCgoC",
-            "aWQYASABKAkSEQoJYW5jaG9yX2lkGAIgASgJIhMKEVF1ZXJ5VXNlcnNSZXF1",
-            "ZXN0IoMCChJRdWVyeVVzZXJzUmVzcG9uc2USNQoHcmVzdWx0cxgBIAMoCzIk",
-            "LmxlYXBicnVzaC5RdWVyeVVzZXJzUmVzcG9uc2UuUmVzdWx0GrUBCgZSZXN1",
-            "bHQSEQoJdXNlcl9uYW1lGAEgASgJEi0KCnNwYWNlX2luZm8YAiABKAsyGS5s",
-            "ZWFwYnJ1c2guU3BhY2VJbmZvUHJvdG8SGQoRdXNlcl9kaXNwbGF5X25hbWUY",
-            "AyABKAkSPgoLZGV2aWNlX3R5cGUYBCABKA4yJC5sZWFwYnJ1c2guVXNlclN0",
-            "YXRlUHJvdG8uRGV2aWNlVHlwZUgAiAEBQg4KDF9kZXZpY2VfdHlwZSJCCg9T",
-            "ZXJ2ZXJJbmZvUHJvdG8SFgoOc2VydmVyX3ZlcnNpb24YASABKAkSFwoPbWlu",
-            "X2FwcF92ZXJzaW9uGAIgASgJIvkCChNTZXJ2ZXJTdGF0ZVJlc3BvbnNlEi0K",
-            "CnVzZXJfc3RhdGUYASADKAsyGS5sZWFwYnJ1c2guVXNlclN0YXRlUHJvdG8S",
-            "OgoQYnJ1c2hfc3Ryb2tlX2FkZBgCIAMoCzIgLmxlYXBicnVzaC5CcnVzaFN0",
-            "cm9rZUFkZFJlcXVlc3QSQAoTYnJ1c2hfc3Ryb2tlX3JlbW92ZRgDIAMoCzIj",
-            "LmxlYXBicnVzaC5CcnVzaFN0cm9rZVJlbW92ZVJlcXVlc3QSPgoSZXh0ZXJu",
-            "YWxfbW9kZWxfYWRkGAQgAygLMiIubGVhcGJydXNoLkV4dGVybmFsTW9kZWxB",
-            "ZGRSZXF1ZXN0EkQKFWV4dGVybmFsX21vZGVsX3JlbW92ZRgFIAMoCzIlLmxl",
-            "YXBicnVzaC5FeHRlcm5hbE1vZGVsUmVtb3ZlUmVxdWVzdBIvCgtzZXJ2ZXJf",
-            "aW5mbxgGIAEoCzIaLmxlYXBicnVzaC5TZXJ2ZXJJbmZvUHJvdG8ihQMKE1Vw",
-            "ZGF0ZURldmljZVJlcXVlc3QSLQoKdXNlcl9zdGF0ZRgBIAEoCzIZLmxlYXBi",
-            "cnVzaC5Vc2VyU3RhdGVQcm90bxItCgpzcGFjZV9pbmZvGAIgASgLMhkubGVh",
-            "cGJydXNoLlNwYWNlSW5mb1Byb3RvEgwKBGVjaG8YAyABKAgSOgoQYnJ1c2hf",
-            "c3Ryb2tlX2FkZBgEIAEoCzIgLmxlYXBicnVzaC5CcnVzaFN0cm9rZUFkZFJl",
-            "cXVlc3QSQAoTYnJ1c2hfc3Ryb2tlX3JlbW92ZRgFIAEoCzIjLmxlYXBicnVz",
-            "aC5CcnVzaFN0cm9rZVJlbW92ZVJlcXVlc3QSPgoSZXh0ZXJuYWxfbW9kZWxf",
-            "YWRkGAcgASgLMiIubGVhcGJydXNoLkV4dGVybmFsTW9kZWxBZGRSZXF1ZXN0",
-            "EkQKFWV4dGVybmFsX21vZGVsX3JlbW92ZRgIIAEoCzIlLmxlYXBicnVzaC5F",
-            "eHRlcm5hbE1vZGVsUmVtb3ZlUmVxdWVzdCIWChRVcGRhdGVEZXZpY2VSZXNw",
-            "b25zZSJaCgpScGNSZXF1ZXN0EhEKCXVzZXJfbmFtZRgBIAEoCRI5ChNxdWVy",
-            "eV91c2Vyc19yZXF1ZXN0GAIgASgLMhwubGVhcGJydXNoLlF1ZXJ5VXNlcnNS",
-            "ZXF1ZXN0IkoKC1JwY1Jlc3BvbnNlEjsKFHF1ZXJ5X3VzZXJzX3Jlc3BvbnNl",
-            "GAEgASgLMh0ubGVhcGJydXNoLlF1ZXJ5VXNlcnNSZXNwb25zZTL8AQoMTGVh",
-            "cEJydXNoQXBpElkKEVJlZ2lzdGVyQW5kTGlzdGVuEiAubGVhcGJydXNoLlJl",
-            "Z2lzdGVyRGV2aWNlUmVxdWVzdBoeLmxlYXBicnVzaC5TZXJ2ZXJTdGF0ZVJl",
-            "c3BvbnNlIgAwARJZChJVcGRhdGVEZXZpY2VTdHJlYW0SHi5sZWFwYnJ1c2gu",
-            "VXBkYXRlRGV2aWNlUmVxdWVzdBofLmxlYXBicnVzaC5VcGRhdGVEZXZpY2VS",
-            "ZXNwb25zZSIAKAESNgoDUnBjEhUubGVhcGJydXNoLlJwY1JlcXVlc3QaFi5s",
-            "ZWFwYnJ1c2guUnBjUmVzcG9uc2UiAEJIWjBnaXRsYWIubWFnaWNsZWFwLmlv",
-            "L2doYXplbi9sZWFwLWJydXNoL3NlcnZlci9hcGmqAhNNYWdpY0xlYXAuTGVh",
-            "cEJydXNoYgZwcm90bzM="));
+            "DSIjCglCcnVzaFR5cGUSDAoIU0NSSUJCTEUQABIICgRQT0xZEAEicgoRU2hh",
+            "cGVDaGFuZ2VyUHJvdG8SMQoFc2hhcGUYASABKA4yIi5sZWFwYnJ1c2guU2hh",
+            "cGVDaGFuZ2VyUHJvdG8uU2hhcGUiKgoFU2hhcGUSCAoEQ1VCRRAAEgoKBlNQ",
+            "SEVSRRABEgsKB0NBUFNVTEUQAiLfAQoSRXh0ZXJuYWxNb2RlbFByb3RvEgoK",
+            "AmlkGAEgASgJEhEKCWZpbGVfbmFtZRgCIAEoCRIRCglhbmNob3JfaWQYAyAB",
+            "KAkSLAoJdHJhbnNmb3JtGAYgASgLMhkubGVhcGJydXNoLlRyYW5zZm9ybVBy",
+            "b3RvEh0KFW1vZGlmaWVkX2J5X3VzZXJfbmFtZRgFIAEoCRI4Cg1zaGFwZV9j",
+            "aGFuZ2VyGAcgASgLMhwubGVhcGJydXNoLlNoYXBlQ2hhbmdlclByb3RvSACI",
+            "AQFCEAoOX3NoYXBlX2NoYW5nZXIiPwoVUmVnaXN0ZXJEZXZpY2VSZXF1ZXN0",
+            "EhEKCXVzZXJfbmFtZRgBIAEoCRITCgthcHBfdmVyc2lvbhgCIAEoCSJKChVC",
+            "cnVzaFN0cm9rZUFkZFJlcXVlc3QSMQoMYnJ1c2hfc3Ryb2tlGAEgASgLMhsu",
+            "bGVhcGJydXNoLkJydXNoU3Ryb2tlUHJvdG8iOQoYQnJ1c2hTdHJva2VSZW1v",
+            "dmVSZXF1ZXN0EgoKAmlkGAEgASgJEhEKCWFuY2hvcl9pZBgCIAEoCSJHChdF",
+            "eHRlcm5hbE1vZGVsQWRkUmVxdWVzdBIsCgVtb2RlbBgBIAEoCzIdLmxlYXBi",
+            "cnVzaC5FeHRlcm5hbE1vZGVsUHJvdG8iOwoaRXh0ZXJuYWxNb2RlbFJlbW92",
+            "ZVJlcXVlc3QSCgoCaWQYASABKAkSEQoJYW5jaG9yX2lkGAIgASgJIhMKEVF1",
+            "ZXJ5VXNlcnNSZXF1ZXN0IoMCChJRdWVyeVVzZXJzUmVzcG9uc2USNQoHcmVz",
+            "dWx0cxgBIAMoCzIkLmxlYXBicnVzaC5RdWVyeVVzZXJzUmVzcG9uc2UuUmVz",
+            "dWx0GrUBCgZSZXN1bHQSEQoJdXNlcl9uYW1lGAEgASgJEi0KCnNwYWNlX2lu",
+            "Zm8YAiABKAsyGS5sZWFwYnJ1c2guU3BhY2VJbmZvUHJvdG8SGQoRdXNlcl9k",
+            "aXNwbGF5X25hbWUYAyABKAkSPgoLZGV2aWNlX3R5cGUYBCABKA4yJC5sZWFw",
+            "YnJ1c2guVXNlclN0YXRlUHJvdG8uRGV2aWNlVHlwZUgAiAEBQg4KDF9kZXZp",
+            "Y2VfdHlwZSJCCg9TZXJ2ZXJJbmZvUHJvdG8SFgoOc2VydmVyX3ZlcnNpb24Y",
+            "ASABKAkSFwoPbWluX2FwcF92ZXJzaW9uGAIgASgJIvkCChNTZXJ2ZXJTdGF0",
+            "ZVJlc3BvbnNlEi0KCnVzZXJfc3RhdGUYASADKAsyGS5sZWFwYnJ1c2guVXNl",
+            "clN0YXRlUHJvdG8SOgoQYnJ1c2hfc3Ryb2tlX2FkZBgCIAMoCzIgLmxlYXBi",
+            "cnVzaC5CcnVzaFN0cm9rZUFkZFJlcXVlc3QSQAoTYnJ1c2hfc3Ryb2tlX3Jl",
+            "bW92ZRgDIAMoCzIjLmxlYXBicnVzaC5CcnVzaFN0cm9rZVJlbW92ZVJlcXVl",
+            "c3QSPgoSZXh0ZXJuYWxfbW9kZWxfYWRkGAQgAygLMiIubGVhcGJydXNoLkV4",
+            "dGVybmFsTW9kZWxBZGRSZXF1ZXN0EkQKFWV4dGVybmFsX21vZGVsX3JlbW92",
+            "ZRgFIAMoCzIlLmxlYXBicnVzaC5FeHRlcm5hbE1vZGVsUmVtb3ZlUmVxdWVz",
+            "dBIvCgtzZXJ2ZXJfaW5mbxgGIAEoCzIaLmxlYXBicnVzaC5TZXJ2ZXJJbmZv",
+            "UHJvdG8ihQMKE1VwZGF0ZURldmljZVJlcXVlc3QSLQoKdXNlcl9zdGF0ZRgB",
+            "IAEoCzIZLmxlYXBicnVzaC5Vc2VyU3RhdGVQcm90bxItCgpzcGFjZV9pbmZv",
+            "GAIgASgLMhkubGVhcGJydXNoLlNwYWNlSW5mb1Byb3RvEgwKBGVjaG8YAyAB",
+            "KAgSOgoQYnJ1c2hfc3Ryb2tlX2FkZBgEIAEoCzIgLmxlYXBicnVzaC5CcnVz",
+            "aFN0cm9rZUFkZFJlcXVlc3QSQAoTYnJ1c2hfc3Ryb2tlX3JlbW92ZRgFIAEo",
+            "CzIjLmxlYXBicnVzaC5CcnVzaFN0cm9rZVJlbW92ZVJlcXVlc3QSPgoSZXh0",
+            "ZXJuYWxfbW9kZWxfYWRkGAcgASgLMiIubGVhcGJydXNoLkV4dGVybmFsTW9k",
+            "ZWxBZGRSZXF1ZXN0EkQKFWV4dGVybmFsX21vZGVsX3JlbW92ZRgIIAEoCzIl",
+            "LmxlYXBicnVzaC5FeHRlcm5hbE1vZGVsUmVtb3ZlUmVxdWVzdCIWChRVcGRh",
+            "dGVEZXZpY2VSZXNwb25zZSJaCgpScGNSZXF1ZXN0EhEKCXVzZXJfbmFtZRgB",
+            "IAEoCRI5ChNxdWVyeV91c2Vyc19yZXF1ZXN0GAIgASgLMhwubGVhcGJydXNo",
+            "LlF1ZXJ5VXNlcnNSZXF1ZXN0IkoKC1JwY1Jlc3BvbnNlEjsKFHF1ZXJ5X3Vz",
+            "ZXJzX3Jlc3BvbnNlGAEgASgLMh0ubGVhcGJydXNoLlF1ZXJ5VXNlcnNSZXNw",
+            "b25zZTL8AQoMTGVhcEJydXNoQXBpElkKEVJlZ2lzdGVyQW5kTGlzdGVuEiAu",
+            "bGVhcGJydXNoLlJlZ2lzdGVyRGV2aWNlUmVxdWVzdBoeLmxlYXBicnVzaC5T",
+            "ZXJ2ZXJTdGF0ZVJlc3BvbnNlIgAwARJZChJVcGRhdGVEZXZpY2VTdHJlYW0S",
+            "Hi5sZWFwYnJ1c2guVXBkYXRlRGV2aWNlUmVxdWVzdBofLmxlYXBicnVzaC5V",
+            "cGRhdGVEZXZpY2VSZXNwb25zZSIAKAESNgoDUnBjEhUubGVhcGJydXNoLlJw",
+            "Y1JlcXVlc3QaFi5sZWFwYnJ1c2guUnBjUmVzcG9uc2UiAEJIWjBnaXRsYWIu",
+            "bWFnaWNsZWFwLmlvL2doYXplbi9sZWFwLWJydXNoL3NlcnZlci9hcGmqAhNN",
+            "YWdpY0xlYXAuTGVhcEJydXNoYgZwcm90bzM="));
       descriptor = pbr::FileDescriptor.FromGeneratedCode(descriptorData,
           new pbr::FileDescriptor[] { },
           new pbr::GeneratedClrTypeInfo(null, null, new pbr::GeneratedClrTypeInfo[] {
@@ -124,7 +128,8 @@ namespace MagicLeap.LeapBrush {
             new pbr::GeneratedClrTypeInfo(typeof(global::MagicLeap.LeapBrush.AnchorProto), global::MagicLeap.LeapBrush.AnchorProto.Parser, new[]{ "Id", "Pose" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::MagicLeap.LeapBrush.SpaceInfoProto), global::MagicLeap.LeapBrush.SpaceInfoProto.Parser, new[]{ "Anchor", "TargetSpaceOrigin", "SpaceName", "SpaceId", "MappingMode", "UsingImportedAnchors" }, null, new[]{ typeof(global::MagicLeap.LeapBrush.SpaceInfoProto.Types.MappingMode) }, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::MagicLeap.LeapBrush.BrushStrokeProto), global::MagicLeap.LeapBrush.BrushStrokeProto.Parser, new[]{ "Id", "UserName", "AnchorId", "Type", "BrushPose", "StartIndex", "StrokeColorRgb", "FillColorRgba", "FillDimmerA" }, null, new[]{ typeof(global::MagicLeap.LeapBrush.BrushStrokeProto.Types.BrushType) }, null, null),
-            new pbr::GeneratedClrTypeInfo(typeof(global::MagicLeap.LeapBrush.ExternalModelProto), global::MagicLeap.LeapBrush.ExternalModelProto.Parser, new[]{ "Id", "FileName", "AnchorId", "Transform", "ModifiedByUserName" }, null, null, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::MagicLeap.LeapBrush.ShapeChangerProto), global::MagicLeap.LeapBrush.ShapeChangerProto.Parser, new[]{ "Shape" }, null, new[]{ typeof(global::MagicLeap.LeapBrush.ShapeChangerProto.Types.Shape) }, null, null),
+            new pbr::GeneratedClrTypeInfo(typeof(global::MagicLeap.LeapBrush.ExternalModelProto), global::MagicLeap.LeapBrush.ExternalModelProto.Parser, new[]{ "Id", "FileName", "AnchorId", "Transform", "ModifiedByUserName", "ShapeChanger" }, new[]{ "ShapeChanger" }, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::MagicLeap.LeapBrush.RegisterDeviceRequest), global::MagicLeap.LeapBrush.RegisterDeviceRequest.Parser, new[]{ "UserName", "AppVersion" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::MagicLeap.LeapBrush.BrushStrokeAddRequest), global::MagicLeap.LeapBrush.BrushStrokeAddRequest.Parser, new[]{ "BrushStroke" }, null, null, null, null),
             new pbr::GeneratedClrTypeInfo(typeof(global::MagicLeap.LeapBrush.BrushStrokeRemoveRequest), global::MagicLeap.LeapBrush.BrushStrokeRemoveRequest.Parser, new[]{ "Id", "AnchorId" }, null, null, null, null),
@@ -3267,6 +3272,212 @@ namespace MagicLeap.LeapBrush {
   }
 
   /// <summary>
+  /// ShapeChangerProto represents a special type of 3D model that is a shape changing prefab
+  /// </summary>
+  public sealed partial class ShapeChangerProto : pb::IMessage<ShapeChangerProto>
+  #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      , pb::IBufferMessage
+  #endif
+  {
+    private static readonly pb::MessageParser<ShapeChangerProto> _parser = new pb::MessageParser<ShapeChangerProto>(() => new ShapeChangerProto());
+    private pb::UnknownFieldSet _unknownFields;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pb::MessageParser<ShapeChangerProto> Parser { get { return _parser; } }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static pbr::MessageDescriptor Descriptor {
+      get { return global::MagicLeap.LeapBrush.LeapBrushApiReflection.Descriptor.MessageTypes[9]; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    pbr::MessageDescriptor pb::IMessage.Descriptor {
+      get { return Descriptor; }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public ShapeChangerProto() {
+      OnConstruction();
+    }
+
+    partial void OnConstruction();
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public ShapeChangerProto(ShapeChangerProto other) : this() {
+      shape_ = other.shape_;
+      _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public ShapeChangerProto Clone() {
+      return new ShapeChangerProto(this);
+    }
+
+    /// <summary>Field number for the "shape" field.</summary>
+    public const int ShapeFieldNumber = 1;
+    private global::MagicLeap.LeapBrush.ShapeChangerProto.Types.Shape shape_ = global::MagicLeap.LeapBrush.ShapeChangerProto.Types.Shape.Cube;
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public global::MagicLeap.LeapBrush.ShapeChangerProto.Types.Shape Shape {
+      get { return shape_; }
+      set {
+        shape_ = value;
+      }
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override bool Equals(object other) {
+      return Equals(other as ShapeChangerProto);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public bool Equals(ShapeChangerProto other) {
+      if (ReferenceEquals(other, null)) {
+        return false;
+      }
+      if (ReferenceEquals(other, this)) {
+        return true;
+      }
+      if (Shape != other.Shape) return false;
+      return Equals(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override int GetHashCode() {
+      int hash = 1;
+      if (Shape != global::MagicLeap.LeapBrush.ShapeChangerProto.Types.Shape.Cube) hash ^= Shape.GetHashCode();
+      if (_unknownFields != null) {
+        hash ^= _unknownFields.GetHashCode();
+      }
+      return hash;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public override string ToString() {
+      return pb::JsonFormatter.ToDiagnosticString(this);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void WriteTo(pb::CodedOutputStream output) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      output.WriteRawMessage(this);
+    #else
+      if (Shape != global::MagicLeap.LeapBrush.ShapeChangerProto.Types.Shape.Cube) {
+        output.WriteRawTag(8);
+        output.WriteEnum((int) Shape);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(output);
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalWriteTo(ref pb::WriteContext output) {
+      if (Shape != global::MagicLeap.LeapBrush.ShapeChangerProto.Types.Shape.Cube) {
+        output.WriteRawTag(8);
+        output.WriteEnum((int) Shape);
+      }
+      if (_unknownFields != null) {
+        _unknownFields.WriteTo(ref output);
+      }
+    }
+    #endif
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public int CalculateSize() {
+      int size = 0;
+      if (Shape != global::MagicLeap.LeapBrush.ShapeChangerProto.Types.Shape.Cube) {
+        size += 1 + pb::CodedOutputStream.ComputeEnumSize((int) Shape);
+      }
+      if (_unknownFields != null) {
+        size += _unknownFields.CalculateSize();
+      }
+      return size;
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(ShapeChangerProto other) {
+      if (other == null) {
+        return;
+      }
+      if (other.Shape != global::MagicLeap.LeapBrush.ShapeChangerProto.Types.Shape.Cube) {
+        Shape = other.Shape;
+      }
+      _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
+    }
+
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public void MergeFrom(pb::CodedInputStream input) {
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+      input.ReadRawMessage(this);
+    #else
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, input);
+            break;
+          case 8: {
+            Shape = (global::MagicLeap.LeapBrush.ShapeChangerProto.Types.Shape) input.ReadEnum();
+            break;
+          }
+        }
+      }
+    #endif
+    }
+
+    #if !GOOGLE_PROTOBUF_REFSTRUCT_COMPATIBILITY_MODE
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    void pb::IBufferMessage.InternalMergeFrom(ref pb::ParseContext input) {
+      uint tag;
+      while ((tag = input.ReadTag()) != 0) {
+        switch(tag) {
+          default:
+            _unknownFields = pb::UnknownFieldSet.MergeFieldFrom(_unknownFields, ref input);
+            break;
+          case 8: {
+            Shape = (global::MagicLeap.LeapBrush.ShapeChangerProto.Types.Shape) input.ReadEnum();
+            break;
+          }
+        }
+      }
+    }
+    #endif
+
+    #region Nested types
+    /// <summary>Container for nested types declared in the ShapeChangerProto message type.</summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public static partial class Types {
+      public enum Shape {
+        [pbr::OriginalName("CUBE")] Cube = 0,
+        [pbr::OriginalName("SPHERE")] Sphere = 1,
+        [pbr::OriginalName("CAPSULE")] Capsule = 2,
+      }
+
+    }
+    #endregion
+
+  }
+
+  /// <summary>
   /// ExternalModelProto represents a new or updated 3D model
   /// </summary>
   public sealed partial class ExternalModelProto : pb::IMessage<ExternalModelProto>
@@ -3283,7 +3494,7 @@ namespace MagicLeap.LeapBrush {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::MagicLeap.LeapBrush.LeapBrushApiReflection.Descriptor.MessageTypes[9]; }
+      get { return global::MagicLeap.LeapBrush.LeapBrushApiReflection.Descriptor.MessageTypes[10]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -3308,6 +3519,7 @@ namespace MagicLeap.LeapBrush {
       anchorId_ = other.anchorId_;
       transform_ = other.transform_ != null ? other.transform_.Clone() : null;
       modifiedByUserName_ = other.modifiedByUserName_;
+      shapeChanger_ = other.shapeChanger_ != null ? other.shapeChanger_.Clone() : null;
       _unknownFields = pb::UnknownFieldSet.Clone(other._unknownFields);
     }
 
@@ -3392,6 +3604,21 @@ namespace MagicLeap.LeapBrush {
       }
     }
 
+    /// <summary>Field number for the "shape_changer" field.</summary>
+    public const int ShapeChangerFieldNumber = 7;
+    private global::MagicLeap.LeapBrush.ShapeChangerProto shapeChanger_;
+    /// <summary>
+    /// If this message is present, this 3D model is a shape changer prefab instance.
+    /// </summary>
+    [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
+    [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
+    public global::MagicLeap.LeapBrush.ShapeChangerProto ShapeChanger {
+      get { return shapeChanger_; }
+      set {
+        shapeChanger_ = value;
+      }
+    }
+
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public override bool Equals(object other) {
@@ -3412,6 +3639,7 @@ namespace MagicLeap.LeapBrush {
       if (AnchorId != other.AnchorId) return false;
       if (!object.Equals(Transform, other.Transform)) return false;
       if (ModifiedByUserName != other.ModifiedByUserName) return false;
+      if (!object.Equals(ShapeChanger, other.ShapeChanger)) return false;
       return Equals(_unknownFields, other._unknownFields);
     }
 
@@ -3424,6 +3652,7 @@ namespace MagicLeap.LeapBrush {
       if (AnchorId.Length != 0) hash ^= AnchorId.GetHashCode();
       if (transform_ != null) hash ^= Transform.GetHashCode();
       if (ModifiedByUserName.Length != 0) hash ^= ModifiedByUserName.GetHashCode();
+      if (shapeChanger_ != null) hash ^= ShapeChanger.GetHashCode();
       if (_unknownFields != null) {
         hash ^= _unknownFields.GetHashCode();
       }
@@ -3462,6 +3691,10 @@ namespace MagicLeap.LeapBrush {
         output.WriteRawTag(50);
         output.WriteMessage(Transform);
       }
+      if (shapeChanger_ != null) {
+        output.WriteRawTag(58);
+        output.WriteMessage(ShapeChanger);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(output);
       }
@@ -3492,6 +3725,10 @@ namespace MagicLeap.LeapBrush {
         output.WriteRawTag(50);
         output.WriteMessage(Transform);
       }
+      if (shapeChanger_ != null) {
+        output.WriteRawTag(58);
+        output.WriteMessage(ShapeChanger);
+      }
       if (_unknownFields != null) {
         _unknownFields.WriteTo(ref output);
       }
@@ -3516,6 +3753,9 @@ namespace MagicLeap.LeapBrush {
       }
       if (ModifiedByUserName.Length != 0) {
         size += 1 + pb::CodedOutputStream.ComputeStringSize(ModifiedByUserName);
+      }
+      if (shapeChanger_ != null) {
+        size += 1 + pb::CodedOutputStream.ComputeMessageSize(ShapeChanger);
       }
       if (_unknownFields != null) {
         size += _unknownFields.CalculateSize();
@@ -3546,6 +3786,12 @@ namespace MagicLeap.LeapBrush {
       }
       if (other.ModifiedByUserName.Length != 0) {
         ModifiedByUserName = other.ModifiedByUserName;
+      }
+      if (other.shapeChanger_ != null) {
+        if (shapeChanger_ == null) {
+          ShapeChanger = new global::MagicLeap.LeapBrush.ShapeChangerProto();
+        }
+        ShapeChanger.MergeFrom(other.ShapeChanger);
       }
       _unknownFields = pb::UnknownFieldSet.MergeFrom(_unknownFields, other._unknownFields);
     }
@@ -3583,6 +3829,13 @@ namespace MagicLeap.LeapBrush {
               Transform = new global::MagicLeap.LeapBrush.TransformProto();
             }
             input.ReadMessage(Transform);
+            break;
+          }
+          case 58: {
+            if (shapeChanger_ == null) {
+              ShapeChanger = new global::MagicLeap.LeapBrush.ShapeChangerProto();
+            }
+            input.ReadMessage(ShapeChanger);
             break;
           }
         }
@@ -3623,6 +3876,13 @@ namespace MagicLeap.LeapBrush {
             input.ReadMessage(Transform);
             break;
           }
+          case 58: {
+            if (shapeChanger_ == null) {
+              ShapeChanger = new global::MagicLeap.LeapBrush.ShapeChangerProto();
+            }
+            input.ReadMessage(ShapeChanger);
+            break;
+          }
         }
       }
     }
@@ -3647,7 +3907,7 @@ namespace MagicLeap.LeapBrush {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::MagicLeap.LeapBrush.LeapBrushApiReflection.Descriptor.MessageTypes[10]; }
+      get { return global::MagicLeap.LeapBrush.LeapBrushApiReflection.Descriptor.MessageTypes[11]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -3882,7 +4142,7 @@ namespace MagicLeap.LeapBrush {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::MagicLeap.LeapBrush.LeapBrushApiReflection.Descriptor.MessageTypes[11]; }
+      get { return global::MagicLeap.LeapBrush.LeapBrushApiReflection.Descriptor.MessageTypes[12]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -4083,7 +4343,7 @@ namespace MagicLeap.LeapBrush {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::MagicLeap.LeapBrush.LeapBrushApiReflection.Descriptor.MessageTypes[12]; }
+      get { return global::MagicLeap.LeapBrush.LeapBrushApiReflection.Descriptor.MessageTypes[13]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -4312,7 +4572,7 @@ namespace MagicLeap.LeapBrush {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::MagicLeap.LeapBrush.LeapBrushApiReflection.Descriptor.MessageTypes[13]; }
+      get { return global::MagicLeap.LeapBrush.LeapBrushApiReflection.Descriptor.MessageTypes[14]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -4513,7 +4773,7 @@ namespace MagicLeap.LeapBrush {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::MagicLeap.LeapBrush.LeapBrushApiReflection.Descriptor.MessageTypes[14]; }
+      get { return global::MagicLeap.LeapBrush.LeapBrushApiReflection.Descriptor.MessageTypes[15]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -4742,7 +5002,7 @@ namespace MagicLeap.LeapBrush {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::MagicLeap.LeapBrush.LeapBrushApiReflection.Descriptor.MessageTypes[15]; }
+      get { return global::MagicLeap.LeapBrush.LeapBrushApiReflection.Descriptor.MessageTypes[16]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -4897,7 +5157,7 @@ namespace MagicLeap.LeapBrush {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::MagicLeap.LeapBrush.LeapBrushApiReflection.Descriptor.MessageTypes[16]; }
+      get { return global::MagicLeap.LeapBrush.LeapBrushApiReflection.Descriptor.MessageTypes[17]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -5425,7 +5685,7 @@ namespace MagicLeap.LeapBrush {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::MagicLeap.LeapBrush.LeapBrushApiReflection.Descriptor.MessageTypes[17]; }
+      get { return global::MagicLeap.LeapBrush.LeapBrushApiReflection.Descriptor.MessageTypes[18]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -5660,7 +5920,7 @@ namespace MagicLeap.LeapBrush {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::MagicLeap.LeapBrush.LeapBrushApiReflection.Descriptor.MessageTypes[18]; }
+      get { return global::MagicLeap.LeapBrush.LeapBrushApiReflection.Descriptor.MessageTypes[19]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -6009,7 +6269,7 @@ namespace MagicLeap.LeapBrush {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::MagicLeap.LeapBrush.LeapBrushApiReflection.Descriptor.MessageTypes[19]; }
+      get { return global::MagicLeap.LeapBrush.LeapBrushApiReflection.Descriptor.MessageTypes[20]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -6499,7 +6759,7 @@ namespace MagicLeap.LeapBrush {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::MagicLeap.LeapBrush.LeapBrushApiReflection.Descriptor.MessageTypes[20]; }
+      get { return global::MagicLeap.LeapBrush.LeapBrushApiReflection.Descriptor.MessageTypes[21]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -6654,7 +6914,7 @@ namespace MagicLeap.LeapBrush {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::MagicLeap.LeapBrush.LeapBrushApiReflection.Descriptor.MessageTypes[21]; }
+      get { return global::MagicLeap.LeapBrush.LeapBrushApiReflection.Descriptor.MessageTypes[22]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
@@ -6898,7 +7158,7 @@ namespace MagicLeap.LeapBrush {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]
     [global::System.CodeDom.Compiler.GeneratedCode("protoc", null)]
     public static pbr::MessageDescriptor Descriptor {
-      get { return global::MagicLeap.LeapBrush.LeapBrushApiReflection.Descriptor.MessageTypes[22]; }
+      get { return global::MagicLeap.LeapBrush.LeapBrushApiReflection.Descriptor.MessageTypes[23]; }
     }
 
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute]

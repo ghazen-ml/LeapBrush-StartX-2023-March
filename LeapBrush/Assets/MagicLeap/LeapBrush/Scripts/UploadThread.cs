@@ -187,7 +187,7 @@ namespace MagicLeap.LeapBrush
         }
 
         public void UpdateExternalModel(string modelId, string anchorId, string modelFileName,
-            TransformProto transform)
+            TransformProto transform, ShapeChangerProto shapeChangerData)
         {
             lock (_lock)
             {
@@ -205,6 +205,7 @@ namespace MagicLeap.LeapBrush
 
                 modelProto.ModifiedByUserName = _userName;
                 modelProto.Transform = transform;
+                modelProto.ShapeChanger = shapeChangerData;
             }
         }
 
